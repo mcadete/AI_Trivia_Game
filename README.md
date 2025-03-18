@@ -7,14 +7,7 @@ An intelligent trivia game powered by OpenAI, CrewAI, and LangChain. This applic
 - Dynamic question generation using OpenAI and CrewAI agents
 - Multiple difficulty levels (High School to Expert)
 - Various knowledge categories
-- Chat interface with memory
-- Content ingestion from multiple sources:
-  - Web pages
-  - PDF documents
-  - GitHub repositories
-  - Google Scholar articles
-- Knowledge base storage using ChromaDB
-- Conversation history tracking
+
 
 ## Setup
 
