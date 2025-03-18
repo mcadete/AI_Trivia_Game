@@ -1,6 +1,6 @@
 # AI-Powered Trivia Game
 
-An intelligent trivia game powered by OpenAI, CrewAI, and LangChain. This application creates dynamic, engaging trivia questions across various difficulty levels and categories, perfect for game nights and educational settings.
+An intelligent trivia game powered by OpenAI and CrewAI. This application creates dynamic, engaging trivia questions across various difficulty levels and categories, perfect for game nights and educational settings.
 
 ## Features
 
